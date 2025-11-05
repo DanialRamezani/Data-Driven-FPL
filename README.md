@@ -5,6 +5,11 @@ The study introduces a deterministic and robust optimization framework for Fanta
 
 The framework enables full reproducibility, offering end-to-end transparency from data collection and feature engineering to lineup optimization and empirical evaluation.
 
+
+---
+
+
+
 **Key Contributions**
 
 - Optimization-Based Lineup Selection:
