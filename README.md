@@ -7,26 +7,26 @@ The framework produces transparent, reproducible recommendations for the startin
 
 **Key Contributions**
 
-Optimization-Based Lineup Selection:
+- Optimization-Based Lineup Selection:
 Mixed-integer linear programming (MILP) models that select the starting XI, bench, and captain simultaneously under FPL rules.
 
-Hybrid Predictive Metric:
+- Hybrid Predictive Metric:
 Combines realized FPL points with forecasts from a ridge regression model trained on interpretable features such as ICT index, expected goals (xG), expected assists (xA), expected goal involvements (xGI), and starts.
 
-Forecasting Approaches:
+- **Forecasting Approaches:**
 Comparative evaluation of multiple estimation methods for expected points, including:
 
-Simple and weighted averages
+- Simple and weighted averages
 
-Exponential smoothing
+- Exponential smoothing
 
-ARIMA (Auto-Regressive Integrated Moving Average)
+- ARIMA (Auto-Regressive Integrated Moving Average)
 
-Monte Carlo and bootstrap simulations
+- Monte Carlo and bootstrap simulations
 
-Linear trend and hybrid ridge regression models
+- Linear trend and hybrid ridge regression models
 
-Robust Optimization:
+- Robust Optimization:
 A worst-case decision model to hedge against overestimation errors in expected scores.
 
 Empirical Evaluation:
