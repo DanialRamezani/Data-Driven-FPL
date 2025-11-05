@@ -7,8 +7,8 @@ The framework enables full reproducibility, offering end-to-end transparency fro
 
 
 ---
-
-
+This notebook can be easily run on Google Colab or on your personal computer. If you are running it locally, ensure that you are using the latest version of Python along with the required libraries.
+---
 
 **Key Contributions**
 
