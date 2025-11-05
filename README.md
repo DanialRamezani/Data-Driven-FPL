@@ -10,8 +10,10 @@ ___
 
 This notebook can be easily run on Google Colab or on your personal computer. If you are running it locally, ensure that you are using the latest version of Python along with the required libraries.
 
+___
+# Citation
 
----
+___
 **Key Contributions**
 
 - Optimization-Based Lineup Selection:
