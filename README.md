@@ -4,11 +4,12 @@ This repo includes code for the paper "A data-driven framework for team selectio
 The study introduces a deterministic and robust optimization framework for Fantasy Premier League (FPL) team selection. It integrates predictive modeling and integer programming to maximize expected points under FPL’s operational constraints—budget, formation, and club quota (maximum of three players per team).
 
 The framework enables full reproducibility, offering end-to-end transparency from data collection and feature engineering to lineup optimization and empirical evaluation.
----
 
+---
 This notebook can be easily run on Google Colab or on your personal computer. If you are running it locally, ensure that you are using the latest version of Python along with the required libraries.
----
 
+
+---
 **Key Contributions**
 
 - Optimization-Based Lineup Selection:
