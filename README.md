@@ -5,7 +5,9 @@ The study introduces a deterministic and robust optimization framework for Fanta
 
 The framework enables full reproducibility, offering end-to-end transparency from data collection and feature engineering to lineup optimization and empirical evaluation.
 
----
+___
+
+
 This notebook can be easily run on Google Colab or on your personal computer. If you are running it locally, ensure that you are using the latest version of Python along with the required libraries.
 
 
