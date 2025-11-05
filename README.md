@@ -18,16 +18,16 @@ Comparative evaluation of multiple estimation methods for expected points, inclu
 
      + Simple and weighted averages
 
-- Exponential smoothing
++ Exponential smoothing
 
-- ARIMA (Auto-Regressive Integrated Moving Average)
++ ARIMA (Auto-Regressive Integrated Moving Average)
 
-- Monte Carlo and bootstrap simulations
++ Monte Carlo and bootstrap simulations
 
-- Linear trend and hybrid ridge regression models
++ Linear trend and hybrid ridge regression models
 
 - Robust Optimization:
 A worst-case decision model to hedge against overestimation errors in expected scores.
 
-Empirical Evaluation:
+- Empirical Evaluation:
 Out-of-sample tests on the 2023/24 Premier League season reveal that ARIMA with a rolling window and recency-weighted averages perform most consistently.
