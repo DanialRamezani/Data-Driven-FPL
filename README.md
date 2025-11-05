@@ -16,8 +16,8 @@ This notebook can be easily run on Google Colab or on your personal computer. If
 
 
 
-___
-**Key Contributions**
+
+#Key Contributions
 
 - Optimization-Based Lineup Selection:
 Mixed-integer linear programming (MILP) models that select the starting XI, bench, and captain simultaneously under FPL rules.
