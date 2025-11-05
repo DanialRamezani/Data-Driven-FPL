@@ -13,6 +13,9 @@ This notebook can be easily run on Google Colab or on your personal computer. If
 ___
 # Citation
 
+@article{ramezani2025data, title={Data-Driven Team Selection in Fantasy Premier League Using Integer Programming and Predictive Modeling Approach}, author={Ramezani, Danial and Dinh, Tai}, year={2025}, journal={Preprint submitted to Elsevier}, url={https://github.com/DanialRamezani/Data-Driven-FPL} }
+
+
 ___
 **Key Contributions**
 
