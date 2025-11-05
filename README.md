@@ -16,7 +16,7 @@ Combines realized FPL points with forecasts from a ridge regression model traine
 - **Forecasting Approaches:**
 Comparative evaluation of multiple estimation methods for expected points, including:
 
-- Simple and weighted averages
+   -Simple and weighted averages
 
 - Exponential smoothing
 
