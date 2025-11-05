@@ -3,7 +3,7 @@ This repo includes code for the paper "A data-driven framework for team selectio
 
 The study introduces a deterministic and robust optimization framework for Fantasy Premier League (FPL) team selection. It integrates predictive modeling and integer programming to maximize expected points under FPL’s operational constraints—budget, formation, and club quota (maximum of three players per team).
 
-The framework produces transparent, reproducible recommendations for the starting XI, captain, and bench, with extensions for robust and hybrid decision-making.
+The framework enables full reproducibility, offering end-to-end transparency from data collection and feature engineering to lineup optimization and empirical evaluation.
 
 **Key Contributions**
 
@@ -31,6 +31,11 @@ A worst-case decision model to hedge against overestimation errors in expected s
 
 - Alternative Objective Function:
 Using alternative functions, such as the ICT index or expected contribution, to optimize the model and select the line-up.
+
+- Comprehensive Sensitivity Analysis:
+
+An extensive investigation of how forecasting approach, rolling-window policy, and starting budget level affect lineup quality and consistency, with managerial insights drawn from the findings.
+
 
 
 **Empirical Evaluation:**
