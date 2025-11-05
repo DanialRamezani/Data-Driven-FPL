@@ -1,11 +1,11 @@
 # Data-Driven-FPL
-This repo include codes for the paper "A data-driven framework for team selection in Fantasy Premier League"
+This repo includes codes for the paper "A data-driven framework for team selection in Fantasy Premier League"
 
 The study introduces a deterministic and robust optimization framework for Fantasy Premier League (FPL) team selection. It integrates predictive modeling and integer programming to maximize expected points under FPL’s operational constraints—budget, formation, and club quota (maximum of three players per team).
 
 The framework produces transparent, reproducible recommendations for the starting XI, captain, and bench, with extensions for robust and hybrid decision-making.
 
-##Key Contributions
+#Key Contributions
 
 Optimization-Based Lineup Selection:
 Mixed-integer linear programming (MILP) models that select the starting XI, bench, and captain simultaneously under FPL rules.
