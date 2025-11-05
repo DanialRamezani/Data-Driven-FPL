@@ -29,5 +29,7 @@ Comparative evaluation of multiple estimation methods for expected points, inclu
 - Robust Optimization:
 A worst-case decision model to hedge against overestimation errors in expected scores.
 
+- Alternative Objective Function:
+Using alternative functions, such as the ICT index or expected contribution, to optimize the model and select the line-up.
 **Empirical Evaluation:**
 Out-of-sample tests on the 2023/24 Premier League season reveal that ARIMA with a rolling window and recency-weighted averages perform most consistently.
