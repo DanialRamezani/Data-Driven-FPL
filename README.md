@@ -13,7 +13,17 @@ This notebook can be easily run on Google Colab or on your personal computer. If
 
 # Citation
 
+To cite this work:
 
+@misc{ramezani2025datadrivenframeworkteamselection,
+      title={A data-driven framework for team selection in Fantasy Premier League}, 
+      author={Danial Ramezani and Tai Dinh},
+      year={2025},
+      eprint={2505.02170},
+      archivePrefix={arXiv},
+      primaryClass={cs.CE},
+      url={https://arxiv.org/abs/2505.02170}, 
+}
 
 
 
